@@ -6,3 +6,4 @@ Image Style Transfer
 
 ![image-20210613020119530](https://github.com/Chillstepp/Image-Style-Transfer-Pytorch/blob/main/readme_ing/image3.png?raw=true)
 
+![image-20210613020119531](https://github.com/Chillstepp/Image-Style-Transfer-Pytorch/blob/main/readme_ing/image4.jpg?raw=true)
